@@ -1,7 +1,7 @@
 name: lagencecom
 favicon: null
 layout_spectrum: 0.5378744171466678
-typography_spectrum: 0.7619747081771493
+typography_spectrum: 0.92035
 title: 'Agence de communication en Périgord Noir, Dordogne'
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.49787365132942796
-  lightness: 0.6771096999291331
-  saturation: 0.9472711754497141
-  rhythmicContrast: 0.5735575298313051
+    - '#575656'
+    - '#f08000'
+    - '#000000'
+    - '#808080'
+    - '#ff5500'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
