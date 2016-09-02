@@ -1,20 +1,4 @@
-name: L'Agence Com'
-favicon: null
-layout_spectrum: 0.5378744171466678
 typography_spectrum: 0.94821
-title: 'Agence de communication en Périgord Noir, Dordogne'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#575656'
@@ -26,4 +10,21 @@ color:
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.5378744171466678
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: L'Agence Com'
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: 'Agence de communication en Périgord Noir, Dordogne'
+description: Les Professionnels de la communication en Périgord
 purpose: []
