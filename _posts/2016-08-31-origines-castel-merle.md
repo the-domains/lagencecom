@@ -13,16 +13,14 @@ description: >-
   deux ans à Sergeac sur le site de Castel-Merle.
 inLanguage: fr
 app_links: []
-isBasedOnUrl: 'https://damienportier.myportfolio.com/origines-castel-merle'
 title: 'Origines, Castel-Merle'
-datePublished: '2016-08-31T06:35:15.206Z'
-dateModified: '2016-08-31T06:35:06.469Z'
+datePublished: '2016-08-31T06:39:44.573Z'
+dateModified: '2016-08-31T06:39:44.150Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-31-origines-castel-merle.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: origines-castel-merle/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
